@@ -3,7 +3,7 @@
 	var drag, state, e;
 
 	/**
-	 * Template for status information about drag and touch events.
+	 
 	 * @private
 	 */
 	drag = {
