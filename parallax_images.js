@@ -2,6 +2,8 @@
 
 	"use strict";
 
+
+
 		var $window                 = $(window),
 		$body                       = $('body'),
 		$offCanvasEl                = $('#slide-out-widget-area'),
